@@ -12,7 +12,7 @@
     所以只做了conf-client使用conf服务来演示其功能即可
 ### conf-client
     主要是为了测试conf服务
-###启动顺序
+### 启动顺序
     1.eureka
     2.conf
     3.conf-client
