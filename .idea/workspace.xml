@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3073733b-eea1-42ea-b891-55b8ba6ff1fc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-client/springcloud-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-client/springcloud-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-client3/springcloud-client3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-client3/springcloud-client3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-conf-client/springcloud-conf-test-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-conf-client/springcloud-conf-test-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-conf/springcloud-conf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-conf/springcloud-conf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-eureka/springcloud-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka/springcloud-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-feign/springcloud-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-feign/springcloud-feign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/springcloud-zuul.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/target/classes/com/example/FilterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/target/classes/com/example/SpringcloudZuulApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-zuul/target/test-classes/com/example/SpringcloudZuulApplicationTests.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,7 +23,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,9 +81,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/SpringcloudZuulApplication.java" />
-        <option value="$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/FilterDemo.java" />
         <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java" />
+        <option value="$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -197,7 +190,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gat-work/egov-portal-cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -317,7 +310,7 @@
       <workItem from="1534427595473" duration="5997000" />
       <workItem from="1534470908303" duration="1918000" />
       <workItem from="1534479060885" duration="8538000" />
-      <workItem from="1534573652881" duration="8022000" />
+      <workItem from="1534573652881" duration="8931000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1534574002094</created>
@@ -326,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534574002094</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added some notes">
+      <created>1534583319490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534583319490</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36986000" />
+    <option name="totallyTimeSpent" value="37895000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,7 +351,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007576" side_tool="true" weight="0.32933104" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.23636363" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.6082474" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.41065294" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.29896906" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -406,7 +406,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Added some notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some notes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/resources/application.yml">
@@ -713,13 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -731,6 +725,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
