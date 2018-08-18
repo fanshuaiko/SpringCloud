@@ -12,6 +12,7 @@
         <module name="springcloud-conf-test-client" />
         <module name="springcloud-demo" />
         <module name="springcloud-feign" />
+        <module name="springcloud-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="springcloud-conf-test-client" target="1.8" />
       <module name="springcloud-demo" target="1.8" />
       <module name="springcloud-feign" target="1.8" />
+      <module name="springcloud-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

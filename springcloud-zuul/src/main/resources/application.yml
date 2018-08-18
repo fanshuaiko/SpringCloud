@@ -1,0 +1,20 @@
+server:
+  port: 8901
+
+eureka:
+  client:
+    eureka-server-u-r-l-context: http:localhost:8761/eureka/
+
+zuul:
+  routes:
+    feign:
+      path: /api-feign/**
+      serviceId: feign
+    client:
+      path: /api-client/**
+      serviceId: client
+
+spring:
+  application:
+    name: zuul
+
