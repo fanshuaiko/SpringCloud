@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-client" />
+        <module name="springcloud-client3" />
+        <module name="springcloud-conf" />
+        <module name="springcloud-conf-test-client" />
+        <module name="springcloud-demo" />
+        <module name="springcloud-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="spring-cloud-demo" target="1.8" />
+      <module name="springcloud-client" target="1.8" />
+      <module name="springcloud-client2" target="1.8" />
+      <module name="springcloud-client3" target="1.8" />
+      <module name="springcloud-conf" target="1.8" />
+      <module name="springcloud-conf-test-client" target="1.8" />
+      <module name="springcloud-demo" target="1.8" />
+      <module name="springcloud-feign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
