@@ -4,7 +4,8 @@ server:
 eureka:
   client:
     eureka-server-u-r-l-context: http:localhost:8761/eureka/
-
+#将访问地址/api-feign/**路由到feign服务
+#将访问地址/api-client/**路由到client服务
 zuul:
   routes:
     feign:
