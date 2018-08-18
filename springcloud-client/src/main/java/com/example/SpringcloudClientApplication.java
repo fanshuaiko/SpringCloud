@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * client服务，供feign负载均衡测试
+ * client服务与client3服务相同，只是端口号不同，供feign负载均衡测试
  */
 @SpringBootApplication
 @EnableEurekaClient
