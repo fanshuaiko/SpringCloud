@@ -1,0 +1,16 @@
+server:
+  port: 8881
+spring:
+  application:
+    name: springcloud-conf-client
+  cloud:
+    config:
+      label: master
+      profile: test
+      #自动发现服务
+      discovery:
+        enabled: true
+        service-id: conf-server
+     #硬编码
+     # uri: http://localhost:8888/
+
