@@ -3,6 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="3073733b-eea1-42ea-b891-55b8ba6ff1fc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/target/classes/META-INF/maven/com.example/springcloud-client/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/target/classes/META-INF/maven/com.example/springcloud-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/target/classes/com/example/SpringcloudClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-client/target/classes/com/example/SpringcloudClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-client/target/test-classes/com/example/SpringcloudClientApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf-client/src/main/java/com/example/SpringcloudConfClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-conf-client/src/main/java/com/example/SpringcloudConfClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf-client/target/classes/com/example/SpringcloudConfClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-conf-client/target/classes/com/example/SpringcloudConfClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-conf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf/target/classes/META-INF/maven/com.example/springcloud-conf/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf/target/classes/META-INF/maven/com.example/springcloud-conf/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-conf/target/classes/com/example/SpringcloudConfApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-conf/target/classes/com/example/SpringcloudConfApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/target/classes/META-INF/maven/com.example/springcloud-demo/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/target/classes/META-INF/maven/com.example/springcloud-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka/target/classes/com/example/SpringcloudEurekaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka/target/classes/com/example/SpringcloudEurekaApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,17 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,20 +64,15 @@
         <option value="$PROJECT_DIR$/springcloud-client2/src/main/java/com/example/SpringcloudClientApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-client2/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-client/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud-conf/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-client2/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-client2/src/main/java/com/example/SpringcloudClient2Application.java" />
         <option value="$PROJECT_DIR$/springcloud-client3/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/Controller.java" />
         <option value="$PROJECT_DIR$/springcloud-client3/src/main/java/com/example/SpringcloudClient3Application.java" />
-        <option value="$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfApplication.java" />
-        <option value="$PROJECT_DIR$/springcloud-conf-client/src/main/java/com/example/SpringcloudConfClientApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-eureka/src/main/java/com/example/SpringcloudEurekaApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-conf-client/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/SybnHystrixFeignConfiguration.java" />
         <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/IServiceFailure.java" />
-        <option value="$PROJECT_DIR$/springcloud-client/src/main/java/com/example/SpringcloudClientApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/IService.java" />
         <option value="$PROJECT_DIR$/springcloud-feign/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-client/src/main/resources/application.yml" />
@@ -82,8 +84,14 @@
         <option value="$PROJECT_DIR$/springcloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/SpringcloudZuulApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/FilterDemo.java" />
-        <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java" />
         <option value="$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-client/src/main/java/com/example/SpringcloudClientApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/Controller.java" />
+        <option value="$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java" />
+        <option value="$PROJECT_DIR$/springcloud-conf/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfClientApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-conf-client/src/main/java/com/example/SpringcloudConfClientApplication.java" />
       </list>
     </option>
   </component>
@@ -125,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -136,25 +145,25 @@
             <path>
               <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -162,7 +171,7 @@
             <path>
               <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -171,16 +180,93 @@
             <path>
               <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-conf-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,6 +286,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-conf/src/main" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -215,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringcloudClient3Application">
+  <component name="RunManager" selected="Spring Boot.SpringcloudConfTestClientApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -310,7 +397,8 @@
       <workItem from="1534427595473" duration="5997000" />
       <workItem from="1534470908303" duration="1918000" />
       <workItem from="1534479060885" duration="8538000" />
-      <workItem from="1534573652881" duration="8931000" />
+      <workItem from="1534573652881" duration="12356000" />
+      <workItem from="1534642829864" duration="3083000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1534574002094</created>
@@ -326,11 +414,25 @@
       <option name="project" value="LOCAL" />
       <updated>1534583319490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added some notes">
+      <created>1534583823573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534583823573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added some notes">
+      <created>1534583945357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534583945357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37895000" />
+    <option name="totallyTimeSpent" value="44403000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,16 +453,15 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007576" side_tool="true" weight="0.32933104" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.23636363" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.41065294" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.30927834" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.29896906" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2439394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24772727" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -370,6 +471,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,20 +512,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added some notes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -523,13 +611,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-client2/src/main/java/com/example/SpringcloudClientApplication.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud-conf/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-client2/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/springcloud-client2/pom.xml" />
     <entry file="file://$PROJECT_DIR$/springcloud-client2/src/main/java/com/example/SpringcloudClient2Application.java" />
@@ -544,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -583,23 +657,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/SybnHystrixFeignConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/IService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/IServiceFailure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.0.1.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/hystrix/dashboard/EnableHystrixDashboard.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -614,48 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/SpringcloudFeignApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-conf-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-conf-client/src/main/java/com/example/SpringcloudConfClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfApplication.java" />
     <entry file="file://$PROJECT_DIR$/springcloud-client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -677,20 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-client/src/main/java/com/example/SpringcloudClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-zuul/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -698,26 +700,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/FilterDemo.java">
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/FilterDemo.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" lean-forward="true" selection-end-line="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="19" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-client/src/main/java/com/example/SpringcloudClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/SpringcloudFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/IServiceFailure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/java/com/example/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-client/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/java/com/example/ZuulFilterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        <state relative-caret-position="161">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -728,10 +776,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-zuul/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/springcloud-conf/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/java/com/example/SpringcloudConfApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-conf/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-conf-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-conf-client/src/main/java/com/example/SpringcloudConfClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>

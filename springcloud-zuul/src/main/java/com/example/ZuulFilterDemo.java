@@ -59,4 +59,5 @@ public class ZuulFilterDemo extends ZuulFilter {
         log.info(s);
         return null;
     }
+ 
 }

@@ -23,6 +23,7 @@ public class SpringcloudConfClientApplication {
 
     @Value("${hello}")
     String hello;
+    //访问路径http://localhost:8881/hello
     @RequestMapping("/hello")
     public String hello(){
         return hello;
